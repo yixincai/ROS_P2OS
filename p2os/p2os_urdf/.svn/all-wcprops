@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/usc-ros-pkg/!svn/ver/204/trunk/p2os/p2os_urdf
+END
+publisher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/usc-ros-pkg/!svn/ver/204/trunk/p2os/p2os_urdf/publisher.cc
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/usc-ros-pkg/!svn/ver/63/trunk/p2os/p2os_urdf/manifest.xml
+END
+Ogre.log
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/usc-ros-pkg/!svn/ver/98/trunk/p2os/p2os_urdf/Ogre.log
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/usc-ros-pkg/!svn/ver/63/trunk/p2os/p2os_urdf/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/usc-ros-pkg/!svn/ver/63/trunk/p2os/p2os_urdf/Makefile
+END

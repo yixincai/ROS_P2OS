@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/usc-ros-pkg/!svn/ver/110/trunk/p2os/p2os_driver/msg
+END
+PTZState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/PTZState.msg
+END
+LiftState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/LiftState.msg
+END
+MotorState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/MotorState.msg
+END
+SonarArray.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/SonarArray.msg
+END
+GripState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/GripState.msg
+END
+AIO.msg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/AIO.msg
+END
+GripperState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/GripperState.msg
+END
+BatteryState.msg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/usc-ros-pkg/!svn/ver/110/trunk/p2os/p2os_driver/msg/BatteryState.msg
+END
+DIO.msg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/usc-ros-pkg/!svn/ver/61/trunk/p2os/p2os_driver/msg/DIO.msg
+END

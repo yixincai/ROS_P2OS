@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/usc-ros-pkg/!svn/ver/545/trunk/p2os
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/usc-ros-pkg/!svn/ver/181/trunk/p2os/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/usc-ros-pkg/!svn/ver/180/trunk/p2os/Makefile
+END
+stack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/usc-ros-pkg/!svn/ver/180/trunk/p2os/stack.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/usc-ros-pkg/!svn/ver/134/trunk/p2os/p2os_dashboard/src/p2os_dashboard
+END
+status_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/usc-ros-pkg/!svn/ver/74/trunk/p2os/p2os_dashboard/src/p2os_dashboard/status_control.py
+END
+rosout_frame.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/usc-ros-pkg/!svn/ver/74/trunk/p2os/p2os_dashboard/src/p2os_dashboard/rosout_frame.py
+END
+breaker_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/usc-ros-pkg/!svn/ver/74/trunk/p2os/p2os_dashboard/src/p2os_dashboard/breaker_control.py
+END
+power_state_control.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/usc-ros-pkg/!svn/ver/74/trunk/p2os/p2os_dashboard/src/p2os_dashboard/power_state_control.py
+END
+p2os_frame.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/usc-ros-pkg/!svn/ver/134/trunk/p2os/p2os_dashboard/src/p2os_dashboard/p2os_frame.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/usc-ros-pkg/!svn/ver/68/trunk/p2os/p2os_dashboard/src/p2os_dashboard/__init__.py
+END
+diagnostics_frame.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/usc-ros-pkg/!svn/ver/68/trunk/p2os/p2os_dashboard/src/p2os_dashboard/diagnostics_frame.py
+END

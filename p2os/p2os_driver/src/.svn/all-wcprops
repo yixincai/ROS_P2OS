@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/usc-ros-pkg/!svn/ver/198/trunk/p2os/p2os_driver/src
+END
+sip.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/usc-ros-pkg/!svn/ver/198/trunk/p2os/p2os_driver/src/sip.cc
+END
+p2os_ptz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/usc-ros-pkg/!svn/ver/75/trunk/p2os/p2os_driver/src/p2os_ptz.cpp
+END
+p2os.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/usc-ros-pkg/!svn/ver/198/trunk/p2os/p2os_driver/src/p2os.cc
+END
+packet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/usc-ros-pkg/!svn/ver/62/trunk/p2os/p2os_driver/src/packet.cc
+END
+robot_params.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/usc-ros-pkg/!svn/ver/62/trunk/p2os/p2os_driver/src/robot_params.cc
+END
+kinecalc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/usc-ros-pkg/!svn/ver/62/trunk/p2os/p2os_driver/src/kinecalc.cc
+END
+p2osnode.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/usc-ros-pkg/!svn/ver/110/trunk/p2os/p2os_driver/src/p2osnode.cc
+END

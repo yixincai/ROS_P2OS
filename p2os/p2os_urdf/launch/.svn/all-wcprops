@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/usc-ros-pkg/!svn/ver/137/trunk/p2os/p2os_urdf/launch
+END
+pioneer3dx.gazebo.launch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/usc-ros-pkg/!svn/ver/137/trunk/p2os/p2os_urdf/launch/pioneer3dx.gazebo.launch
+END
+upload_pioneer3dx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/usc-ros-pkg/!svn/ver/94/trunk/p2os/p2os_urdf/launch/upload_pioneer3dx.xml
+END
+pioneer3dx_urdf.launch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/usc-ros-pkg/!svn/ver/63/trunk/p2os/p2os_urdf/launch/pioneer3dx_urdf.launch
+END

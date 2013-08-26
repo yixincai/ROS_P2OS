@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/usc-ros-pkg/!svn/ver/137/trunk/p2os/p2os_urdf/defs
+END
+pioneer3at.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/usc-ros-pkg/!svn/ver/98/trunk/p2os/p2os_urdf/defs/pioneer3at.xacro
+END
+pioneer3dx.urdf.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/usc-ros-pkg/!svn/ver/136/trunk/p2os/p2os_urdf/defs/pioneer3dx.urdf.xacro
+END
+pioneer3dx.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/usc-ros-pkg/!svn/ver/136/trunk/p2os/p2os_urdf/defs/pioneer3dx.xacro
+END
+pioneer3dx_orig.2.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/usc-ros-pkg/!svn/ver/87/trunk/p2os/p2os_urdf/defs/pioneer3dx_orig.2.xacro
+END
+materials.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/usc-ros-pkg/!svn/ver/87/trunk/p2os/p2os_urdf/defs/materials.xacro
+END
+pioneer3dx_wheel.xacro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/usc-ros-pkg/!svn/ver/137/trunk/p2os/p2os_urdf/defs/pioneer3dx_wheel.xacro
+END

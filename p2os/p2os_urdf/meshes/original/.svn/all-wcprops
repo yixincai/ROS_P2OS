@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original
+END
+pioneer3dx.stl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/pioneer3dx.stl
+END
+caster_mount.stl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/caster_mount.stl
+END
+sonars.stl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/sonars.stl
+END
+wheels-center.stl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/wheels-center.stl
+END
+caster_plate.stl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/caster_plate.stl
+END
+tires.stl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/tires.stl
+END
+top_plate.stl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/top_plate.stl
+END
+body.stl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/body.stl
+END
+chassis_top.stl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/usc-ros-pkg/!svn/ver/88/trunk/p2os/p2os_urdf/meshes/original/chassis_top.stl
+END
